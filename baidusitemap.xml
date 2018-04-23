@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://coc.neko7ina.com/mozu1.html</loc>
+    <lastmod>2018-04-23T13:10:19.075Z</lastmod>
+    <data>
+        <display>
+        <title>这里是一个模组</title>
+        <pubTime>2018-01-19T08:19:16.000Z</pubTime>
+        
+        <tag>跑团模组</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
+    <loc>http://coc.neko7ina.com/other-mozu.html</loc>
+    <lastmod>2018-04-23T13:10:17.698Z</lastmod>
+    <data>
+        <display>
+        <title>这里是另一个模组</title>
+        <pubTime>2018-03-07T10:09:40.000Z</pubTime>
+        
+        <tag>跑团模组</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+</urlset>
